@@ -32,14 +32,19 @@ img {
 
 .menu{
 	
-	max-width: 23px;
+	/* max-width: 23px;
 	width: 100%;
 	max-height: 234px;
 	height: 100%;
 	margin: 17px auto;
 	padding: 12%;
 	background-color: aqua;
-	border-radius: 4px;
+	border-radius: 4px; */
+
+/* margin-left: 3px; */
+
+margin: 9px 0px 0px 3px;
+border-radius: 9px;
 width: 48px;
 height: 301px;
 background-color: black;
@@ -51,4 +56,7 @@ filter: drop-shadow(8px 11px 15px rgba(0, 0, 0, 0.29));
 {
 	background: #7fffd400;
 
+}
+.manu_icon{
+	text-align: center;
 }
